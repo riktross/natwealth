@@ -1,7 +1,12 @@
 ---
 {
   "date": "2023-12-28",
-  "subtitle": "Or: why would anyone invest in real capital in Brazil?",
+  "subtitle": "Why would anyone invest in real capital in Brazil?",
+  "tags": [
+    "Brazil",
+    "Finance",
+    "Development"
+  ],
   "title": "The irrationally high interest rates in Brazil"
 }
 ---

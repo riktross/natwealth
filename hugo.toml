@@ -65,7 +65,7 @@ copyrightStartYear = "2020"
 
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
-description = "A minimal Hugo theme with nice theme color."
+description = "Thinking aloud about economic development in a finite planet"
 og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage
@@ -140,7 +140,7 @@ url = "https://github.com/riktross"
 weight = 1
 # [[menu.link]]
 # name = "Twitter"
-# url = "https://twitter.com/dsrkafuu"
+# url = "https://twitter.com/NatureOfWealth"
 # weight = 2
 
 
