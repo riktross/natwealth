@@ -34,6 +34,7 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 # author = "ER"                # You can also set author in post front matter individually
 subTitle = "Thinking aloud about economic development in a finite world"
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
+math = true
 
 # Source URL of the website, will appear in the footer
 # sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
